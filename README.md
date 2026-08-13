@@ -11,11 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/hardik022-s/dsa-leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/hardik022-s/dsa-leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/hardik022-s/dsa-leetcode/tree/master/0283-move-zeroes) |
+| [2965-find-missing-and-repeated-values](https://github.com/hardik022-s/dsa-leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/hardik022-s/dsa-leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/hardik022-s/dsa-leetcode/tree/master/0169-majority-element) |
+| [2965-find-missing-and-repeated-values](https://github.com/hardik022-s/dsa-leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/hardik022-s/dsa-leetcode/tree/master/0189-rotate-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/hardik022-s/dsa-leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -45,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/hardik022-s/dsa-leetcode/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/hardik022-s/dsa-leetcode/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
