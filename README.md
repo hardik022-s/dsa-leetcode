@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/hardik022-s/dsa-leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/hardik022-s/dsa-leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/hardik022-s/dsa-leetcode/tree/master/0283-move-zeroes) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/hardik022-s/dsa-leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2965-find-missing-and-repeated-values](https://github.com/hardik022-s/dsa-leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/hardik022-s/dsa-leetcode/tree/master/0189-rotate-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/hardik022-s/dsa-leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2965-find-missing-and-repeated-values](https://github.com/hardik022-s/dsa-leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
